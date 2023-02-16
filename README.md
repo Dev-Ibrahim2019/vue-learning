@@ -15,7 +15,7 @@
 - The way of create component makes the code flexible and reusable. 
 > Should understand that any specific component is responsible for what ?!!
 - Add listner for events from parent component to child and vise versa.
-- Finally, create cards and make the app flixible for adds-on it. "you can anly change themes and exit card"
+- Finally, create cards and make the app flixible for adds-on it. "you can also change themes and exit card"
 
 #### To Start diving into project:
 Run the following into the root of your code in the terminal ...
