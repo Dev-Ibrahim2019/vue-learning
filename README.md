@@ -10,7 +10,7 @@
   
 
 #### How the system is going on:
-- The system will fetch the data from the database.json that you can are run it through json-server.
+- The system will fetch the data from the database.json that you can run it through json-server.
 - Make the system flixible by create componets and using slots.
 - The way of create component makes the code flexible and reusable. 
 > Should understand that any specific component is responsible for what ?!!
